@@ -1,3 +1,3 @@
-just a test
+LOCAL
 just a test
 just a test
