@@ -1,3 +1,3 @@
-just a test
+REMOTE
 just a test
 just a test
